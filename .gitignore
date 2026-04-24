@@ -17,6 +17,9 @@ Thumbs.db
 .env
 google-services.json
 
+
+# Secrets Firebase
 backend/*firebase*.json
 
+# ignore idea
 .idea/
