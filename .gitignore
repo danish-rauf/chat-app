@@ -1,0 +1,22 @@
+# Android
+android/.gradle/
+android/local.properties
+android/.idea/
+android/*.iml
+android/build/
+
+# Backend
+backend/target/
+backend/.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+google-services.json
+
+backend/*firebase*.json
+
+.idea/
